@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanzeel-khan&show_icons=true&theme=onedark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Tanzeel-khan&show_icons=true&theme=cobalt" width="400">
 
 
 - 📫 How to reach me:
